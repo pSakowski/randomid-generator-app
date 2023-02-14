@@ -1,0 +1,8 @@
+{
+  "name": "@sakes/randomid-generator-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pSakowski/randomid-generator-app.git",
+  "author": "Piotr Sakowski <p.sakowski1213@gmail.com>",
+  "license": "MIT"
+}
